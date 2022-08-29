@@ -1,6 +1,4 @@
-# Remove Bootloader Unlock Warning</br>
-
-Magisk module to remove boot warnings at boot.</br>
+# Magisk module to remove Bootloader Unlock Warning</br>
 
 Download from here https://github.com/daboynb/remove_boot_warnings_a127f/releases/tag/release.</br>
 
