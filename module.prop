@@ -3,4 +3,4 @@ name=remove boot warnings
 version=1
 versionCode=1
 author=daboynb
-description=up_param
+description=remove boot warnings at boot
